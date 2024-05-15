@@ -1,0 +1,14 @@
+E:\C#\Lab-Visual-Studio-01\Customer Info\bin\Debug\net8.0\Customer Info.exe
+E:\C#\Lab-Visual-Studio-01\Customer Info\bin\Debug\net8.0\Customer Info.deps.json
+E:\C#\Lab-Visual-Studio-01\Customer Info\bin\Debug\net8.0\Customer Info.runtimeconfig.json
+E:\C#\Lab-Visual-Studio-01\Customer Info\bin\Debug\net8.0\Customer Info.dll
+E:\C#\Lab-Visual-Studio-01\Customer Info\bin\Debug\net8.0\Customer Info.pdb
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.AssemblyInfoInputs.cache
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.AssemblyInfo.cs
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.csproj.CoreCompileInputs.cache
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.dll
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\refint\Customer Info.dll
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.pdb
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\Customer Info.genruntimeconfig.cache
+E:\C#\Lab-Visual-Studio-01\Customer Info\obj\Debug\net8.0\ref\Customer Info.dll
