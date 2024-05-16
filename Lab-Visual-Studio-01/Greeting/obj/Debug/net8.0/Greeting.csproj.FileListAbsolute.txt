@@ -1,0 +1,14 @@
+E:\C#\Lab-Visual-Studio-01\Greeting\bin\Debug\net8.0\Greeting.exe
+E:\C#\Lab-Visual-Studio-01\Greeting\bin\Debug\net8.0\Greeting.deps.json
+E:\C#\Lab-Visual-Studio-01\Greeting\bin\Debug\net8.0\Greeting.runtimeconfig.json
+E:\C#\Lab-Visual-Studio-01\Greeting\bin\Debug\net8.0\Greeting.dll
+E:\C#\Lab-Visual-Studio-01\Greeting\bin\Debug\net8.0\Greeting.pdb
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.AssemblyInfoInputs.cache
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.AssemblyInfo.cs
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.csproj.CoreCompileInputs.cache
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.dll
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\refint\Greeting.dll
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.pdb
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\Greeting.genruntimeconfig.cache
+E:\C#\Lab-Visual-Studio-01\Greeting\obj\Debug\net8.0\ref\Greeting.dll
