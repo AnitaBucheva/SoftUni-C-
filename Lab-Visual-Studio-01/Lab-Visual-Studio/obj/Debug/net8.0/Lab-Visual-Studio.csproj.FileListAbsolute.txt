@@ -1,0 +1,14 @@
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\bin\Debug\net8.0\Lab-Visual-Studio.exe
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\bin\Debug\net8.0\Lab-Visual-Studio.deps.json
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\bin\Debug\net8.0\Lab-Visual-Studio.runtimeconfig.json
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\bin\Debug\net8.0\Lab-Visual-Studio.dll
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\bin\Debug\net8.0\Lab-Visual-Studio.pdb
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.AssemblyInfoInputs.cache
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.AssemblyInfo.cs
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.csproj.CoreCompileInputs.cache
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.dll
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\refint\Lab-Visual-Studio.dll
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.pdb
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\Lab-Visual-Studio.genruntimeconfig.cache
+E:\C#\Lab-Visual-Studio-01\Lab-Visual-Studio\obj\Debug\net8.0\ref\Lab-Visual-Studio.dll
