@@ -1,0 +1,14 @@
+E:\C#\Lab-Visual-Studio-01\Person Info\bin\Debug\net8.0\Person Info.exe
+E:\C#\Lab-Visual-Studio-01\Person Info\bin\Debug\net8.0\Person Info.deps.json
+E:\C#\Lab-Visual-Studio-01\Person Info\bin\Debug\net8.0\Person Info.runtimeconfig.json
+E:\C#\Lab-Visual-Studio-01\Person Info\bin\Debug\net8.0\Person Info.dll
+E:\C#\Lab-Visual-Studio-01\Person Info\bin\Debug\net8.0\Person Info.pdb
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.AssemblyInfoInputs.cache
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.AssemblyInfo.cs
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.csproj.CoreCompileInputs.cache
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.dll
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\refint\Person Info.dll
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.pdb
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\Person Info.genruntimeconfig.cache
+E:\C#\Lab-Visual-Studio-01\Person Info\obj\Debug\net8.0\ref\Person Info.dll
