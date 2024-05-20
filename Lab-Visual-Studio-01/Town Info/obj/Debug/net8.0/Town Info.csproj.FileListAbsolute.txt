@@ -1,0 +1,14 @@
+E:\C#\Lab-Visual-Studio-01\Town Info\bin\Debug\net8.0\Town Info.exe
+E:\C#\Lab-Visual-Studio-01\Town Info\bin\Debug\net8.0\Town Info.deps.json
+E:\C#\Lab-Visual-Studio-01\Town Info\bin\Debug\net8.0\Town Info.runtimeconfig.json
+E:\C#\Lab-Visual-Studio-01\Town Info\bin\Debug\net8.0\Town Info.dll
+E:\C#\Lab-Visual-Studio-01\Town Info\bin\Debug\net8.0\Town Info.pdb
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.AssemblyInfoInputs.cache
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.AssemblyInfo.cs
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.csproj.CoreCompileInputs.cache
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.dll
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\refint\Town Info.dll
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.pdb
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\Town Info.genruntimeconfig.cache
+E:\C#\Lab-Visual-Studio-01\Town Info\obj\Debug\net8.0\ref\Town Info.dll
