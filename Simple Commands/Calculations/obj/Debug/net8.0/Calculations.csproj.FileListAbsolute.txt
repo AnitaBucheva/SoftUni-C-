@@ -1,0 +1,14 @@
+E:\C#\Hello C#\Calculations\bin\Debug\net8.0\Calculations.exe
+E:\C#\Hello C#\Calculations\bin\Debug\net8.0\Calculations.deps.json
+E:\C#\Hello C#\Calculations\bin\Debug\net8.0\Calculations.runtimeconfig.json
+E:\C#\Hello C#\Calculations\bin\Debug\net8.0\Calculations.dll
+E:\C#\Hello C#\Calculations\bin\Debug\net8.0\Calculations.pdb
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.AssemblyInfoInputs.cache
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.AssemblyInfo.cs
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.csproj.CoreCompileInputs.cache
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.dll
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\refint\Calculations.dll
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.pdb
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\Calculations.genruntimeconfig.cache
+E:\C#\Hello C#\Calculations\obj\Debug\net8.0\ref\Calculations.dll
