@@ -1,0 +1,14 @@
+E:\C#\Hello C#\Print5x5\bin\Debug\net8.0\Print5x5.exe
+E:\C#\Hello C#\Print5x5\bin\Debug\net8.0\Print5x5.deps.json
+E:\C#\Hello C#\Print5x5\bin\Debug\net8.0\Print5x5.runtimeconfig.json
+E:\C#\Hello C#\Print5x5\bin\Debug\net8.0\Print5x5.dll
+E:\C#\Hello C#\Print5x5\bin\Debug\net8.0\Print5x5.pdb
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.AssemblyInfoInputs.cache
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.AssemblyInfo.cs
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.csproj.CoreCompileInputs.cache
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.dll
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\refint\Print5x5.dll
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.pdb
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\Print5x5.genruntimeconfig.cache
+E:\C#\Hello C#\Print5x5\obj\Debug\net8.0\ref\Print5x5.dll
