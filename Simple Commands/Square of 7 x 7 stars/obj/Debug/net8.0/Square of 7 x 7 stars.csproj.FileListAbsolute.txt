@@ -1,0 +1,14 @@
+E:\C#\Hello C#\Square of 7 x 7 stars\bin\Debug\net8.0\Square of 7 x 7 stars.exe
+E:\C#\Hello C#\Square of 7 x 7 stars\bin\Debug\net8.0\Square of 7 x 7 stars.deps.json
+E:\C#\Hello C#\Square of 7 x 7 stars\bin\Debug\net8.0\Square of 7 x 7 stars.runtimeconfig.json
+E:\C#\Hello C#\Square of 7 x 7 stars\bin\Debug\net8.0\Square of 7 x 7 stars.dll
+E:\C#\Hello C#\Square of 7 x 7 stars\bin\Debug\net8.0\Square of 7 x 7 stars.pdb
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.AssemblyInfoInputs.cache
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.AssemblyInfo.cs
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.csproj.CoreCompileInputs.cache
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.dll
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\refint\Square of 7 x 7 stars.dll
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.pdb
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\Square of 7 x 7 stars.genruntimeconfig.cache
+E:\C#\Hello C#\Square of 7 x 7 stars\obj\Debug\net8.0\ref\Square of 7 x 7 stars.dll
