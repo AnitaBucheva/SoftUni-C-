@@ -1,0 +1,14 @@
+E:\C#\Simple Calculations\Market\bin\Debug\net8.0\Market.exe
+E:\C#\Simple Calculations\Market\bin\Debug\net8.0\Market.deps.json
+E:\C#\Simple Calculations\Market\bin\Debug\net8.0\Market.runtimeconfig.json
+E:\C#\Simple Calculations\Market\bin\Debug\net8.0\Market.dll
+E:\C#\Simple Calculations\Market\bin\Debug\net8.0\Market.pdb
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.AssemblyInfoInputs.cache
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.AssemblyInfo.cs
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.csproj.CoreCompileInputs.cache
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.dll
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\refint\Market.dll
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.pdb
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\Market.genruntimeconfig.cache
+E:\C#\Simple Calculations\Market\obj\Debug\net8.0\ref\Market.dll
