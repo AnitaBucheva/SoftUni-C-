@@ -1,0 +1,14 @@
+E:\C#\Simple Calculations\Supplies for School\bin\Debug\net8.0\Supplies for School.exe
+E:\C#\Simple Calculations\Supplies for School\bin\Debug\net8.0\Supplies for School.deps.json
+E:\C#\Simple Calculations\Supplies for School\bin\Debug\net8.0\Supplies for School.runtimeconfig.json
+E:\C#\Simple Calculations\Supplies for School\bin\Debug\net8.0\Supplies for School.dll
+E:\C#\Simple Calculations\Supplies for School\bin\Debug\net8.0\Supplies for School.pdb
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.AssemblyInfoInputs.cache
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.AssemblyInfo.cs
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.csproj.CoreCompileInputs.cache
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.dll
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\refint\Supplies for School.dll
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.pdb
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\Supplies for School.genruntimeconfig.cache
+E:\C#\Simple Calculations\Supplies for School\obj\Debug\net8.0\ref\Supplies for School.dll
