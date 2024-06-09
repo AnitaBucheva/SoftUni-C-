@@ -1,0 +1,14 @@
+E:\C#\Simple Calculations\Tiles\bin\Debug\net8.0\Tiles.exe
+E:\C#\Simple Calculations\Tiles\bin\Debug\net8.0\Tiles.deps.json
+E:\C#\Simple Calculations\Tiles\bin\Debug\net8.0\Tiles.runtimeconfig.json
+E:\C#\Simple Calculations\Tiles\bin\Debug\net8.0\Tiles.dll
+E:\C#\Simple Calculations\Tiles\bin\Debug\net8.0\Tiles.pdb
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.AssemblyInfoInputs.cache
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.AssemblyInfo.cs
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.csproj.CoreCompileInputs.cache
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.dll
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\refint\Tiles.dll
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.pdb
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\Tiles.genruntimeconfig.cache
+E:\C#\Simple Calculations\Tiles\obj\Debug\net8.0\ref\Tiles.dll
