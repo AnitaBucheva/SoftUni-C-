@@ -1,0 +1,14 @@
+E:\C#\Simple Conditional Statements\Even or Odd\bin\Debug\net8.0\Even or Odd.exe
+E:\C#\Simple Conditional Statements\Even or Odd\bin\Debug\net8.0\Even or Odd.deps.json
+E:\C#\Simple Conditional Statements\Even or Odd\bin\Debug\net8.0\Even or Odd.runtimeconfig.json
+E:\C#\Simple Conditional Statements\Even or Odd\bin\Debug\net8.0\Even or Odd.dll
+E:\C#\Simple Conditional Statements\Even or Odd\bin\Debug\net8.0\Even or Odd.pdb
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.AssemblyInfoInputs.cache
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.AssemblyInfo.cs
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.csproj.CoreCompileInputs.cache
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.dll
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\refint\Even or Odd.dll
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.pdb
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\Even or Odd.genruntimeconfig.cache
+E:\C#\Simple Conditional Statements\Even or Odd\obj\Debug\net8.0\ref\Even or Odd.dll
