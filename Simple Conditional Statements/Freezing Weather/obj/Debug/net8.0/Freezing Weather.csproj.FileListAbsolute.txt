@@ -1,0 +1,14 @@
+E:\C#\Simple Conditional Statements\Freezing Weather\bin\Debug\net8.0\Freezing Weather.exe
+E:\C#\Simple Conditional Statements\Freezing Weather\bin\Debug\net8.0\Freezing Weather.deps.json
+E:\C#\Simple Conditional Statements\Freezing Weather\bin\Debug\net8.0\Freezing Weather.runtimeconfig.json
+E:\C#\Simple Conditional Statements\Freezing Weather\bin\Debug\net8.0\Freezing Weather.dll
+E:\C#\Simple Conditional Statements\Freezing Weather\bin\Debug\net8.0\Freezing Weather.pdb
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.AssemblyInfoInputs.cache
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.AssemblyInfo.cs
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.csproj.CoreCompileInputs.cache
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.dll
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\refint\Freezing Weather.dll
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.pdb
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\Freezing Weather.genruntimeconfig.cache
+E:\C#\Simple Conditional Statements\Freezing Weather\obj\Debug\net8.0\ref\Freezing Weather.dll
