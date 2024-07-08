@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Circle Area and Perimeter\bin\Debug\net8.0\Circle Area and Perimeter.exe
+E:\C#\Data Types and Variables\Circle Area and Perimeter\bin\Debug\net8.0\Circle Area and Perimeter.deps.json
+E:\C#\Data Types and Variables\Circle Area and Perimeter\bin\Debug\net8.0\Circle Area and Perimeter.runtimeconfig.json
+E:\C#\Data Types and Variables\Circle Area and Perimeter\bin\Debug\net8.0\Circle Area and Perimeter.dll
+E:\C#\Data Types and Variables\Circle Area and Perimeter\bin\Debug\net8.0\Circle Area and Perimeter.pdb
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.dll
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\refint\Circle Area and Perimeter.dll
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.pdb
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\Circle Area and Perimeter.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Circle Area and Perimeter\obj\Debug\net8.0\ref\Circle Area and Perimeter.dll
