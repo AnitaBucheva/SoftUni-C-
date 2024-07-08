@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Calculate Speed\bin\Debug\net8.0\Calculate Speed.exe
+E:\C#\Data Types and Variables\Calculate Speed\bin\Debug\net8.0\Calculate Speed.deps.json
+E:\C#\Data Types and Variables\Calculate Speed\bin\Debug\net8.0\Calculate Speed.runtimeconfig.json
+E:\C#\Data Types and Variables\Calculate Speed\bin\Debug\net8.0\Calculate Speed.dll
+E:\C#\Data Types and Variables\Calculate Speed\bin\Debug\net8.0\Calculate Speed.pdb
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.dll
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\refint\Calculate Speed.dll
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.pdb
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\Calculate Speed.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Calculate Speed\obj\Debug\net8.0\ref\Calculate Speed.dll
