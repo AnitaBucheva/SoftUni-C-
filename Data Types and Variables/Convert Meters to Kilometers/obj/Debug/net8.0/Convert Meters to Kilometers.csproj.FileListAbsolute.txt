@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\bin\Debug\net8.0\Convert Meters to Kilometers.exe
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\bin\Debug\net8.0\Convert Meters to Kilometers.deps.json
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\bin\Debug\net8.0\Convert Meters to Kilometers.runtimeconfig.json
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\bin\Debug\net8.0\Convert Meters to Kilometers.dll
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\bin\Debug\net8.0\Convert Meters to Kilometers.pdb
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.dll
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\refint\Convert Meters to Kilometers.dll
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.pdb
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\Convert Meters to Kilometers.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Convert Meters to Kilometers\obj\Debug\net8.0\ref\Convert Meters to Kilometers.dll
