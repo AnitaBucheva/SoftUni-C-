@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Days to Minutes\bin\Debug\net8.0\Days to Minutes.exe
+E:\C#\Data Types and Variables\Days to Minutes\bin\Debug\net8.0\Days to Minutes.deps.json
+E:\C#\Data Types and Variables\Days to Minutes\bin\Debug\net8.0\Days to Minutes.runtimeconfig.json
+E:\C#\Data Types and Variables\Days to Minutes\bin\Debug\net8.0\Days to Minutes.dll
+E:\C#\Data Types and Variables\Days to Minutes\bin\Debug\net8.0\Days to Minutes.pdb
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.dll
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\refint\Days to Minutes.dll
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.pdb
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\Days to Minutes.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Days to Minutes\obj\Debug\net8.0\ref\Days to Minutes.dll
