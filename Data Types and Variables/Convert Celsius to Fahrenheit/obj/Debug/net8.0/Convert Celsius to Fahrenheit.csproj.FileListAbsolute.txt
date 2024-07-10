@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\bin\Debug\net8.0\Convert Celsius to Fahrenheit.exe
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\bin\Debug\net8.0\Convert Celsius to Fahrenheit.deps.json
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\bin\Debug\net8.0\Convert Celsius to Fahrenheit.runtimeconfig.json
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\bin\Debug\net8.0\Convert Celsius to Fahrenheit.dll
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\bin\Debug\net8.0\Convert Celsius to Fahrenheit.pdb
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.dll
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\refint\Convert Celsius to Fahrenheit.dll
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.pdb
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\Convert Celsius to Fahrenheit.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Convert Celsius to Fahrenheit\obj\Debug\net8.0\ref\Convert Celsius to Fahrenheit.dll
