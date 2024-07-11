@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Projects Creation\bin\Debug\net8.0\Projects Creation.exe
+E:\C#\Data Types and Variables\Projects Creation\bin\Debug\net8.0\Projects Creation.deps.json
+E:\C#\Data Types and Variables\Projects Creation\bin\Debug\net8.0\Projects Creation.runtimeconfig.json
+E:\C#\Data Types and Variables\Projects Creation\bin\Debug\net8.0\Projects Creation.dll
+E:\C#\Data Types and Variables\Projects Creation\bin\Debug\net8.0\Projects Creation.pdb
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.dll
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\refint\Projects Creation.dll
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.pdb
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\Projects Creation.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Projects Creation\obj\Debug\net8.0\ref\Projects Creation.dll
