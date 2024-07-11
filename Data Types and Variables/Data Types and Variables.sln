@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Days to Minutes", "Days to Minutes\Days to Minutes.csproj", "{89311EC2-92C9-4770-95D6-07FCF6E73401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate Speed", "Calculate Speed\Calculate Speed.csproj", "{9ED9EBE4-7B25-41EC-8E46-91B63426353C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle Area and Perimeter", "Circle Area and Perimeter\Circle Area and Perimeter.csproj", "{4B2D4CDF-7614-4874-B693-3D5FB0EBB8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Meters to Kilometers", "Convert Meters to Kilometers\Convert Meters to Kilometers.csproj", "{298A0EE9-3802-4B25-A4A2-271A6D567E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Celsius to Fahrenheit", "Convert Celsius to Fahrenheit\Convert Celsius to Fahrenheit.csproj", "{B90E4915-1544-4961-B362-8E72E92940FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets Food", "Pets Food\Pets Food.csproj", "{60E30C09-17E2-421C-84A9-C1D79448D85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projects Creation", "Projects Creation\Projects Creation.csproj", "{CDEEE2DD-8C71-46C3-BB82-F631133ABDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89311EC2-92C9-4770-95D6-07FCF6E73401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89311EC2-92C9-4770-95D6-07FCF6E73401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89311EC2-92C9-4770-95D6-07FCF6E73401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89311EC2-92C9-4770-95D6-07FCF6E73401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED9EBE4-7B25-41EC-8E46-91B63426353C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED9EBE4-7B25-41EC-8E46-91B63426353C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED9EBE4-7B25-41EC-8E46-91B63426353C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED9EBE4-7B25-41EC-8E46-91B63426353C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2D4CDF-7614-4874-B693-3D5FB0EBB8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2D4CDF-7614-4874-B693-3D5FB0EBB8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2D4CDF-7614-4874-B693-3D5FB0EBB8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2D4CDF-7614-4874-B693-3D5FB0EBB8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298A0EE9-3802-4B25-A4A2-271A6D567E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298A0EE9-3802-4B25-A4A2-271A6D567E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298A0EE9-3802-4B25-A4A2-271A6D567E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298A0EE9-3802-4B25-A4A2-271A6D567E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90E4915-1544-4961-B362-8E72E92940FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90E4915-1544-4961-B362-8E72E92940FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90E4915-1544-4961-B362-8E72E92940FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90E4915-1544-4961-B362-8E72E92940FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E30C09-17E2-421C-84A9-C1D79448D85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E30C09-17E2-421C-84A9-C1D79448D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E30C09-17E2-421C-84A9-C1D79448D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E30C09-17E2-421C-84A9-C1D79448D85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEEE2DD-8C71-46C3-BB82-F631133ABDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEEE2DD-8C71-46C3-BB82-F631133ABDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEEE2DD-8C71-46C3-BB82-F631133ABDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEEE2DD-8C71-46C3-BB82-F631133ABDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82600B99-693F-44C2-9CE8-285DA8D34F0E}
+	EndGlobalSection
+EndGlobal
