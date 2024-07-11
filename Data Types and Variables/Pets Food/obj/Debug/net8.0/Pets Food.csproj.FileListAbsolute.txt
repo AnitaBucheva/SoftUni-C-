@@ -1,0 +1,14 @@
+E:\C#\Data Types and Variables\Pets Food\bin\Debug\net8.0\Pets Food.exe
+E:\C#\Data Types and Variables\Pets Food\bin\Debug\net8.0\Pets Food.deps.json
+E:\C#\Data Types and Variables\Pets Food\bin\Debug\net8.0\Pets Food.runtimeconfig.json
+E:\C#\Data Types and Variables\Pets Food\bin\Debug\net8.0\Pets Food.dll
+E:\C#\Data Types and Variables\Pets Food\bin\Debug\net8.0\Pets Food.pdb
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.AssemblyInfoInputs.cache
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.AssemblyInfo.cs
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.csproj.CoreCompileInputs.cache
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.dll
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\refint\Pets Food.dll
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.pdb
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\Pets Food.genruntimeconfig.cache
+E:\C#\Data Types and Variables\Pets Food\obj\Debug\net8.0\ref\Pets Food.dll
