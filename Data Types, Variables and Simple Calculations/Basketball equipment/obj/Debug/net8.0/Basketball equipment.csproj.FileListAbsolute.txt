@@ -1,0 +1,14 @@
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\bin\Debug\net8.0\Basketball equipment.exe
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\bin\Debug\net8.0\Basketball equipment.deps.json
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\bin\Debug\net8.0\Basketball equipment.runtimeconfig.json
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\bin\Debug\net8.0\Basketball equipment.dll
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\bin\Debug\net8.0\Basketball equipment.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.AssemblyInfoInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.AssemblyInfo.cs
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.csproj.CoreCompileInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.dll
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\refint\Basketball equipment.dll
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\Basketball equipment.genruntimeconfig.cache
+E:\C#\Data Types, Variables and Simple Calculations\Basketball equipment\obj\Debug\net8.0\ref\Basketball equipment.dll
