@@ -1,0 +1,14 @@
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\bin\Debug\net8.0\Aqarium.exe
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\bin\Debug\net8.0\Aqarium.deps.json
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\bin\Debug\net8.0\Aqarium.runtimeconfig.json
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\bin\Debug\net8.0\Aqarium.dll
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\bin\Debug\net8.0\Aqarium.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.AssemblyInfoInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.AssemblyInfo.cs
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.csproj.CoreCompileInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.dll
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\refint\Aqarium.dll
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\Aqarium.genruntimeconfig.cache
+E:\C#\Data Types, Variables and Simple Calculations\Aqarium\obj\Debug\net8.0\ref\Aqarium.dll
