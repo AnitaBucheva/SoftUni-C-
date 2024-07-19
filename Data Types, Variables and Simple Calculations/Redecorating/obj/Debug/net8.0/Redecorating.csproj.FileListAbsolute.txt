@@ -1,0 +1,14 @@
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\bin\Debug\net8.0\Redecorating.exe
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\bin\Debug\net8.0\Redecorating.deps.json
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\bin\Debug\net8.0\Redecorating.runtimeconfig.json
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\bin\Debug\net8.0\Redecorating.dll
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\bin\Debug\net8.0\Redecorating.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.AssemblyInfoInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.AssemblyInfo.cs
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.csproj.CoreCompileInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.dll
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\refint\Redecorating.dll
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\Redecorating.genruntimeconfig.cache
+E:\C#\Data Types, Variables and Simple Calculations\Redecorating\obj\Debug\net8.0\ref\Redecorating.dll
