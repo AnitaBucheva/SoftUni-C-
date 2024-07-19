@@ -1,0 +1,14 @@
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\bin\Debug\net8.0\Reversed Numbers.exe
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\bin\Debug\net8.0\Reversed Numbers.deps.json
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\bin\Debug\net8.0\Reversed Numbers.runtimeconfig.json
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\bin\Debug\net8.0\Reversed Numbers.dll
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\bin\Debug\net8.0\Reversed Numbers.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.AssemblyInfoInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.AssemblyInfo.cs
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.csproj.CoreCompileInputs.cache
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.dll
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\refint\Reversed Numbers.dll
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.pdb
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\Reversed Numbers.genruntimeconfig.cache
+E:\C#\Data Types, Variables and Simple Calculations\Reversed Numbers\obj\Debug\net8.0\ref\Reversed Numbers.dll
