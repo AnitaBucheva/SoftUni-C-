@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\bin\Debug\net8.0\Text Reading.exe
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\bin\Debug\net8.0\Text Reading.deps.json
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\bin\Debug\net8.0\Text Reading.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\bin\Debug\net8.0\Text Reading.dll
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\bin\Debug\net8.0\Text Reading.pdb
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.dll
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\refint\Text Reading.dll
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.pdb
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\Text Reading.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Exercises Simple Commands\obj\Debug\net8.0\ref\Text Reading.dll
