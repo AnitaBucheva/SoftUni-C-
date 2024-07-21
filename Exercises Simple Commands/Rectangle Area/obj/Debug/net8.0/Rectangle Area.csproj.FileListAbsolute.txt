@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Rectangle Area\bin\Debug\net8.0\Rectangle Area.exe
+E:\C#\Exercises Simple Commands\Rectangle Area\bin\Debug\net8.0\Rectangle Area.deps.json
+E:\C#\Exercises Simple Commands\Rectangle Area\bin\Debug\net8.0\Rectangle Area.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Rectangle Area\bin\Debug\net8.0\Rectangle Area.dll
+E:\C#\Exercises Simple Commands\Rectangle Area\bin\Debug\net8.0\Rectangle Area.pdb
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.dll
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\refint\Rectangle Area.dll
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.pdb
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\Rectangle Area.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Rectangle Area\obj\Debug\net8.0\ref\Rectangle Area.dll
