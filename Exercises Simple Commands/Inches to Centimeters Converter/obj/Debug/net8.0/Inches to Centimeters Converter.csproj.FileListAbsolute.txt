@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\bin\Debug\net8.0\Inches to Centimeters Converter.exe
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\bin\Debug\net8.0\Inches to Centimeters Converter.deps.json
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\bin\Debug\net8.0\Inches to Centimeters Converter.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\bin\Debug\net8.0\Inches to Centimeters Converter.dll
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\bin\Debug\net8.0\Inches to Centimeters Converter.pdb
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.dll
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\refint\Inches to Centimeters Converter.dll
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.pdb
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\Inches to Centimeters Converter.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Inches to Centimeters Converter\obj\Debug\net8.0\ref\Inches to Centimeters Converter.dll
