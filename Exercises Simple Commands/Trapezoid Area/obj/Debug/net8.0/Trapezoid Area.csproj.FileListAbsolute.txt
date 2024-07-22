@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Trapezoid Area\bin\Debug\net8.0\Trapezoid Area.exe
+E:\C#\Exercises Simple Commands\Trapezoid Area\bin\Debug\net8.0\Trapezoid Area.deps.json
+E:\C#\Exercises Simple Commands\Trapezoid Area\bin\Debug\net8.0\Trapezoid Area.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Trapezoid Area\bin\Debug\net8.0\Trapezoid Area.dll
+E:\C#\Exercises Simple Commands\Trapezoid Area\bin\Debug\net8.0\Trapezoid Area.pdb
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.dll
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\refint\Trapezoid Area.dll
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.pdb
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\Trapezoid Area.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Trapezoid Area\obj\Debug\net8.0\ref\Trapezoid Area.dll
