@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Square Area\bin\Debug\net8.0\Square Area.exe
+E:\C#\Exercises Simple Commands\Square Area\bin\Debug\net8.0\Square Area.deps.json
+E:\C#\Exercises Simple Commands\Square Area\bin\Debug\net8.0\Square Area.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Square Area\bin\Debug\net8.0\Square Area.dll
+E:\C#\Exercises Simple Commands\Square Area\bin\Debug\net8.0\Square Area.pdb
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.dll
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\refint\Square Area.dll
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.pdb
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\Square Area.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Square Area\obj\Debug\net8.0\ref\Square Area.dll
