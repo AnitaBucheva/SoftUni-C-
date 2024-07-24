@@ -1,0 +1,14 @@
+E:\C#\Exercises Simple Commands\Triangle Perimeter\bin\Debug\net8.0\Triangle Perimeter.exe
+E:\C#\Exercises Simple Commands\Triangle Perimeter\bin\Debug\net8.0\Triangle Perimeter.deps.json
+E:\C#\Exercises Simple Commands\Triangle Perimeter\bin\Debug\net8.0\Triangle Perimeter.runtimeconfig.json
+E:\C#\Exercises Simple Commands\Triangle Perimeter\bin\Debug\net8.0\Triangle Perimeter.dll
+E:\C#\Exercises Simple Commands\Triangle Perimeter\bin\Debug\net8.0\Triangle Perimeter.pdb
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.AssemblyInfoInputs.cache
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.AssemblyInfo.cs
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.csproj.CoreCompileInputs.cache
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.dll
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\refint\Triangle Perimeter.dll
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.pdb
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\Triangle Perimeter.genruntimeconfig.cache
+E:\C#\Exercises Simple Commands\Triangle Perimeter\obj\Debug\net8.0\ref\Triangle Perimeter.dll
