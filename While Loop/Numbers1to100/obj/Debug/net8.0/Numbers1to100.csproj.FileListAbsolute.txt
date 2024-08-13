@@ -1,0 +1,14 @@
+E:\C#\While Loop\Numbers1to100\bin\Debug\net8.0\Numbers1to100.exe
+E:\C#\While Loop\Numbers1to100\bin\Debug\net8.0\Numbers1to100.deps.json
+E:\C#\While Loop\Numbers1to100\bin\Debug\net8.0\Numbers1to100.runtimeconfig.json
+E:\C#\While Loop\Numbers1to100\bin\Debug\net8.0\Numbers1to100.dll
+E:\C#\While Loop\Numbers1to100\bin\Debug\net8.0\Numbers1to100.pdb
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.AssemblyInfoInputs.cache
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.AssemblyInfo.cs
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.csproj.CoreCompileInputs.cache
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.dll
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\refint\Numbers1to100.dll
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.pdb
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\Numbers1to100.genruntimeconfig.cache
+E:\C#\While Loop\Numbers1to100\obj\Debug\net8.0\ref\Numbers1to100.dll
