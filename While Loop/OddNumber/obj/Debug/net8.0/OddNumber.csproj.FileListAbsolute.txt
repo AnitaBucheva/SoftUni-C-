@@ -1,0 +1,14 @@
+E:\C#\While Loop\OddNumber\bin\Debug\net8.0\OddNumber.exe
+E:\C#\While Loop\OddNumber\bin\Debug\net8.0\OddNumber.deps.json
+E:\C#\While Loop\OddNumber\bin\Debug\net8.0\OddNumber.runtimeconfig.json
+E:\C#\While Loop\OddNumber\bin\Debug\net8.0\OddNumber.dll
+E:\C#\While Loop\OddNumber\bin\Debug\net8.0\OddNumber.pdb
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.AssemblyInfoInputs.cache
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.AssemblyInfo.cs
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.csproj.CoreCompileInputs.cache
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.dll
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\refint\OddNumber.dll
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.pdb
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\OddNumber.genruntimeconfig.cache
+E:\C#\While Loop\OddNumber\obj\Debug\net8.0\ref\OddNumber.dll
