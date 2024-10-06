@@ -1,0 +1,14 @@
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\bin\Debug\net8.0\CountRealNumbers.exe
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\bin\Debug\net8.0\CountRealNumbers.deps.json
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\bin\Debug\net8.0\CountRealNumbers.runtimeconfig.json
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\bin\Debug\net8.0\CountRealNumbers.dll
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\bin\Debug\net8.0\CountRealNumbers.pdb
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.AssemblyInfoInputs.cache
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.AssemblyInfo.cs
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.dll
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\refint\CountRealNumbers.dll
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.pdb
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\CountRealNumbers.genruntimeconfig.cache
+E:\C#\DictionariesLambdaAndLINQ\CountRealNumbers\obj\Debug\net8.0\ref\CountRealNumbers.dll
