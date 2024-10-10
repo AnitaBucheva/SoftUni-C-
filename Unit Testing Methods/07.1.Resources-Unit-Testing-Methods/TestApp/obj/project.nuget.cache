@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/giidFzDPjn98a4TckZE7O7iioIW22+IjiUI+614ELPzntSIE+qKmfNaNXtIezqOxWlhVTUzSAmsJzXpdN7bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Нова папка (2)\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
