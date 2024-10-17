@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\LabObjectsAndClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84BAB709-8E1A-4F3E-999C-D73AAA54DC05}|Song\\Song.csproj|e:\\c#\\labobjectsandclasses\\song\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BAB709-8E1A-4F3E-999C-D73AAA54DC05}|Song\\Song.csproj|solutionrelative:song\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4372-7B34-4439-9AFA-6463A799AE45}|Students\\Students.csproj|e:\\c#\\labobjectsandclasses\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E4372-7B34-4439-9AFA-6463A799AE45}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A617EB9A-C40F-4E88-8C38-3E7A48F2B2BD}|Songs\\Songs.csproj|e:\\c#\\labobjectsandclasses\\songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A617EB9A-C40F-4E88-8C38-3E7A48F2B2BD}|Songs\\Songs.csproj|solutionrelative:songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\LabObjectsAndClasses\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Students\\Program.cs",
+              "ToolTip": "E:\\C#\\LabObjectsAndClasses\\Students\\Program.cs",
+              "RelativeToolTip": "Students\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:07:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\LabObjectsAndClasses\\Song\\Program.cs",
+              "RelativeDocumentMoniker": "Song\\Program.cs",
+              "ToolTip": "E:\\C#\\LabObjectsAndClasses\\Song\\Program.cs",
+              "RelativeToolTip": "Song\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:03:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\LabObjectsAndClasses\\Songs\\Program.cs",
+              "RelativeDocumentMoniker": "Songs\\Program.cs",
+              "ToolTip": "E:\\C#\\LabObjectsAndClasses\\Songs\\Program.cs",
+              "RelativeToolTip": "Songs\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:02:22.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
