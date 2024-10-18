@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\NestedLoopsAndMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFED2A1-FBF1-4F21-BECE-04AA87A4B283}|PasswordValidator\\PasswordValidator.csproj|e:\\c#\\nestedloopsandmethods\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFED2A1-FBF1-4F21-BECE-04AA87A4B283}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB01D7F0-7881-4B57-85AD-5DC73441A2AD}|MultiplicationSign\\MultiplicationSign.csproj|e:\\c#\\nestedloopsandmethods\\multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB01D7F0-7881-4B57-85AD-5DC73441A2AD}|MultiplicationSign\\MultiplicationSign.csproj|solutionrelative:multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67099B2-3415-48D7-A670-C2237DE3C122}|FactorialDivision\\FactorialDivision.csproj|e:\\c#\\nestedloopsandmethods\\factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67099B2-3415-48D7-A670-C2237DE3C122}|FactorialDivision\\FactorialDivision.csproj|solutionrelative:factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54581077-1152-43CD-AC19-E1DB5147365E}|VowelsCount\\VowelsCount.csproj|e:\\c#\\nestedloopsandmethods\\vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54581077-1152-43CD-AC19-E1DB5147365E}|VowelsCount\\VowelsCount.csproj|solutionrelative:vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3026EF37-A8D0-4279-82F9-C2810960B540}|HappyNumbers\\HappyNumbers.csproj|e:\\c#\\nestedloopsandmethods\\happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3026EF37-A8D0-4279-82F9-C2810960B540}|HappyNumbers\\HappyNumbers.csproj|solutionrelative:happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D14226-64E7-45BF-8762-FFC65648877C}|LetterCombinations\\LetterCombinations.csproj|e:\\c#\\nestedloopsandmethods\\lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D14226-64E7-45BF-8762-FFC65648877C}|LetterCombinations\\LetterCombinations.csproj|solutionrelative:lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725327F7-B62A-4B16-A170-294BCE868F20}|UniquePINCodes\\UniquePINCodes.csproj|e:\\c#\\nestedloopsandmethods\\uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725327F7-B62A-4B16-A170-294BCE868F20}|UniquePINCodes\\UniquePINCodes.csproj|solutionrelative:uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A868FD-E7BF-4EE8-A037-A508D239F977}|MagicNumbers\\MagicNumbers.csproj|e:\\c#\\nestedloopsandmethods\\magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A868FD-E7BF-4EE8-A037-A508D239F977}|MagicNumbers\\MagicNumbers.csproj|solutionrelative:magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB239-72F7-4D0E-8FBA-1CFF28A453B8}|StupidPasswords\\StupidPasswords.csproj|e:\\c#\\nestedloopsandmethods\\stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB239-72F7-4D0E-8FBA-1CFF28A453B8}|StupidPasswords\\StupidPasswords.csproj|solutionrelative:stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordValidator\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\PasswordValidator\\Program.cs",
+              "RelativeToolTip": "PasswordValidator\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:46:27.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplicationSign\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "MultiplicationSign\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:45:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "FactorialDivision\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\FactorialDivision\\Program.cs",
+              "RelativeToolTip": "FactorialDivision\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:43:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "VowelsCount\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\VowelsCount\\Program.cs",
+              "RelativeToolTip": "VowelsCount\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:42:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\HappyNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "HappyNumbers\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\HappyNumbers\\Program.cs",
+              "RelativeToolTip": "HappyNumbers\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:41:57.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\LetterCombinations\\Program.cs",
+              "RelativeDocumentMoniker": "LetterCombinations\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\LetterCombinations\\Program.cs",
+              "RelativeToolTip": "LetterCombinations\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:40:53.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\UniquePINCodes\\Program.cs",
+              "RelativeDocumentMoniker": "UniquePINCodes\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\UniquePINCodes\\Program.cs",
+              "RelativeToolTip": "UniquePINCodes\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:39:46.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\MagicNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "MagicNumbers\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\MagicNumbers\\Program.cs",
+              "RelativeToolTip": "MagicNumbers\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:38:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\NestedLoopsAndMethods\\StupidPasswords\\Program.cs",
+              "RelativeDocumentMoniker": "StupidPasswords\\Program.cs",
+              "ToolTip": "E:\\C#\\NestedLoopsAndMethods\\StupidPasswords\\Program.cs",
+              "RelativeToolTip": "StupidPasswords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:38:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
