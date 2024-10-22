@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Unit Testing Drum Set\\04-Drum-Set-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\dell\\desktop\\unit testing drum set\\04-drum-set-resources\\testapp.tests\\drumsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\drumsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|c:\\users\\dell\\desktop\\unit testing drum set\\04-drum-set-resources\\testapp\\drumset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\drumset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrumSet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Unit Testing Drum Set\\04-Drum-Set-Resources\\TestApp\\DrumSet.cs",
+              "RelativeDocumentMoniker": "TestApp\\DrumSet.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Unit Testing Drum Set\\04-Drum-Set-Resources\\TestApp\\DrumSet.cs",
+              "RelativeToolTip": "TestApp\\DrumSet.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:39:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrumSetTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Unit Testing Drum Set\\04-Drum-Set-Resources\\TestApp.Tests\\DrumSetTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\DrumSetTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Unit Testing Drum Set\\04-Drum-Set-Resources\\TestApp.Tests\\DrumSetTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\DrumSetTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:37:45.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
