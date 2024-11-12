@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB139998-C3B7-495E-AFAF-E9D545FAEB5C}|CompanyUsers\\CompanyUsers.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB139998-C3B7-495E-AFAF-E9D545FAEB5C}|CompanyUsers\\CompanyUsers.csproj|solutionrelative:companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB936FB-87F3-4DC9-8DDD-698FCC235557}|StudentAcademy\\StudentAcademy.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB936FB-87F3-4DC9-8DDD-698FCC235557}|StudentAcademy\\StudentAcademy.csproj|solutionrelative:studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D369EDF5-7E3C-4A4F-AABD-63076160BBAE}|SoftUniParking\\SoftUniParking.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D369EDF5-7E3C-4A4F-AABD-63076160BBAE}|SoftUniParking\\SoftUniParking.csproj|solutionrelative:softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D1F127-27E1-4F9A-B724-F0119FDAB36B}|Orders\\Orders.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D1F127-27E1-4F9A-B724-F0119FDAB36B}|Orders\\Orders.csproj|solutionrelative:orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E8DFAD-8DA5-48A3-B329-A9BB8D5BD1ED}|AMinerTask\\AMinerTask.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E8DFAD-8DA5-48A3-B329-A9BB8D5BD1ED}|AMinerTask\\AMinerTask.csproj|solutionrelative:aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2055EDDE-7306-4FC5-AC72-60A0BB771030}|CountCharsInAString\\CountCharsInAString.csproj|e:\\c#\\exercisedictionarieslamdbaandlinq\\countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2055EDDE-7306-4FC5-AC72-60A0BB771030}|CountCharsInAString\\CountCharsInAString.csproj|solutionrelative:countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\CompanyUsers\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyUsers\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\CompanyUsers\\Program.cs",
+              "RelativeToolTip": "CompanyUsers\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:49:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\StudentAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAcademy\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\StudentAcademy\\Program.cs",
+              "RelativeToolTip": "StudentAcademy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:47:40.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniParking\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\SoftUniParking\\Program.cs",
+              "RelativeToolTip": "SoftUniParking\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:46:53.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\Orders\\Program.cs",
+              "RelativeDocumentMoniker": "Orders\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\Orders\\Program.cs",
+              "RelativeToolTip": "Orders\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:46:04.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "AMinerTask\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\AMinerTask\\Program.cs",
+              "RelativeToolTip": "AMinerTask\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:45:13.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\CountCharsInAString\\Program.cs",
+              "RelativeDocumentMoniker": "CountCharsInAString\\Program.cs",
+              "ToolTip": "E:\\C#\\ExerciseDictionariesLamdbaAndLINQ\\CountCharsInAString\\Program.cs",
+              "RelativeToolTip": "CountCharsInAString\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:44:23.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
