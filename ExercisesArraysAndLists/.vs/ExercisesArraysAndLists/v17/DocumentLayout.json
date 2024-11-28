@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ExercisesArraysAndLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44652F6E-5B6A-42D0-B56B-738220EF416F}|ArrayRotation\\ArrayRotation.csproj|e:\\c#\\exercisesarraysandlists\\arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44652F6E-5B6A-42D0-B56B-738220EF416F}|ArrayRotation\\ArrayRotation.csproj|solutionrelative:arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313B3A1F-7578-4376-9006-AA05BABD4B33}|BombNumbers\\BombNumbers.csproj|e:\\c#\\exercisesarraysandlists\\bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313B3A1F-7578-4376-9006-AA05BABD4B33}|BombNumbers\\BombNumbers.csproj|solutionrelative:bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A908F10-21F6-467E-A090-DBF77044CD29}|Zig-ZagArrays\\Zig-ZagArrays.csproj|e:\\c#\\exercisesarraysandlists\\zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A908F10-21F6-467E-A090-DBF77044CD29}|Zig-ZagArrays\\Zig-ZagArrays.csproj|solutionrelative:zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82FCC0-F356-4BCB-9780-93F859209132}|CondenseArrayToNumber\\CondenseArrayToNumber.csproj|e:\\c#\\exercisesarraysandlists\\condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82FCC0-F356-4BCB-9780-93F859209132}|CondenseArrayToNumber\\CondenseArrayToNumber.csproj|solutionrelative:condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C208B1-6276-4C0E-9B29-3C313201DBD2}|MergingLists\\MergingLists.csproj|e:\\c#\\exercisesarraysandlists\\merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C208B1-6276-4C0E-9B29-3C313201DBD2}|MergingLists\\MergingLists.csproj|solutionrelative:merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863EF82-598F-40FA-A34F-BD64C919B1DA}|Gauss\u0027Trick\\Gauss\u0027Trick.csproj|e:\\c#\\exercisesarraysandlists\\gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863EF82-598F-40FA-A34F-BD64C919B1DA}|Gauss\u0027Trick\\Gauss\u0027Trick.csproj|solutionrelative:gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayRotation\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\ArrayRotation\\Program.cs",
+              "RelativeToolTip": "ArrayRotation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:16:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Zig-ZagArrays\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "Zig-ZagArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:08:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "BombNumbers\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\BombNumbers\\Program.cs",
+              "RelativeToolTip": "BombNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:56:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "MergingLists\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\MergingLists\\Program.cs",
+              "RelativeToolTip": "MergingLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:09:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:47:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ExercisesArraysAndLists\\Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "E:\\C#\\ExercisesArraysAndLists\\Gauss\u0027Trick\\Program.cs",
+              "RelativeToolTip": "Gauss\u0027Trick\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:25:10.283Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
