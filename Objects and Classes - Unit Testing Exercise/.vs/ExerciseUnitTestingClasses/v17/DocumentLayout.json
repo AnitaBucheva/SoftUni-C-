@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\dell\\desktop\\objects and classes - unit testing exercise\\testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ArticleTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ArticleTests.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:07:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PlanetTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PlanetTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:06:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ShopTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ShopTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:06:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SongTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SongTests.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:04:26.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\StudentTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\StudentTests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:02:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PersonTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PersonTests.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:01:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\VehicleTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Objects and Classes - Unit Testing Exercise\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\VehicleTests.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:59:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
