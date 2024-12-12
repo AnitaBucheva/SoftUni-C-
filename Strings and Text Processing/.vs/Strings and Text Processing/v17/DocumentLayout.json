@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Strings and Text Processing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F80AA3-683B-4462-9D33-9168C0C960D0}|DigitsLettersAndOther\\DigitsLettersAndOther.csproj|e:\\c#\\strings and text processing\\digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F80AA3-683B-4462-9D33-9168C0C960D0}|DigitsLettersAndOther\\DigitsLettersAndOther.csproj|solutionrelative:digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2BB85-5C5B-4160-A3E3-888BC058352C}|TextFilter\\TextFilter.csproj|e:\\c#\\strings and text processing\\textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2BB85-5C5B-4160-A3E3-888BC058352C}|TextFilter\\TextFilter.csproj|solutionrelative:textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C9C390-511E-4924-8802-53177F29F390}|Substring\\Substring.csproj|e:\\c#\\strings and text processing\\substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C9C390-511E-4924-8802-53177F29F390}|Substring\\Substring.csproj|solutionrelative:substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3851711D-A31D-4473-89DD-A5F748ECDE60}|RepeatStrings\\RepeatStrings.csproj|e:\\c#\\strings and text processing\\repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3851711D-A31D-4473-89DD-A5F748ECDE60}|RepeatStrings\\RepeatStrings.csproj|solutionrelative:repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD38C97A-E942-4612-BBFE-8C5969829D19}|Reverse Strings\\Reverse Strings.csproj|e:\\c#\\strings and text processing\\reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD38C97A-E942-4612-BBFE-8C5969829D19}|Reverse Strings\\Reverse Strings.csproj|solutionrelative:reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Strings and Text Processing\\DigitsLettersAndOther\\Program.cs",
+              "RelativeDocumentMoniker": "DigitsLettersAndOther\\Program.cs",
+              "ToolTip": "E:\\C#\\Strings and Text Processing\\DigitsLettersAndOther\\Program.cs",
+              "RelativeToolTip": "DigitsLettersAndOther\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:23:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Strings and Text Processing\\TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "TextFilter\\Program.cs",
+              "ToolTip": "E:\\C#\\Strings and Text Processing\\TextFilter\\Program.cs",
+              "RelativeToolTip": "TextFilter\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:21:56.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Strings and Text Processing\\Substring\\Program.cs",
+              "RelativeDocumentMoniker": "Substring\\Program.cs",
+              "ToolTip": "E:\\C#\\Strings and Text Processing\\Substring\\Program.cs",
+              "RelativeToolTip": "Substring\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:20:56.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Strings and Text Processing\\RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "RepeatStrings\\Program.cs",
+              "ToolTip": "E:\\C#\\Strings and Text Processing\\RepeatStrings\\Program.cs",
+              "RelativeToolTip": "RepeatStrings\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:19:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Strings and Text Processing\\Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Reverse Strings\\Program.cs",
+              "ToolTip": "E:\\C#\\Strings and Text Processing\\Reverse Strings\\Program.cs",
+              "RelativeToolTip": "Reverse Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:18:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
